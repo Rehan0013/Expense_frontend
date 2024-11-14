@@ -82,8 +82,8 @@ const Sidebar = () => {
         }`}
       >
         <Image
-          src="https://localhost:8000/logo.png"
-          alt="edstock-logo"
+          src="/assets/logo.png"
+          alt="rastock-logo"
           width={27}
           height={27}
           className="rounded w-8"
